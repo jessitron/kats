@@ -1,8 +1,8 @@
 module Main exposing (main)
 
-import Html exposing (Html)
+import Html exposing (Html, div, text)
 
 
 main : Html Never
 main =
-    Html.div [] []
+    div [] [ text "Hello World" ]
