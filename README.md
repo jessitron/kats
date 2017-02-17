@@ -19,6 +19,7 @@ Links to stuff I used and talked about:
       * the [change the greeting](https://github.com/jessitron/kats-rugs/blob/master/.atomist/editors/ChangeMainToPrint.rug) rug
       * the WrapFunctionBody rug [using the Scala language extension](https://github.com/jessitron/kats-rugs/blob/master/.atomist/editors/WrapFunctionBody.ts)
       * the WrapFunctionBody rug [using Microgrammars](https://github.com/jessitron/kats-rugs/blob/master/.atomist/editors/WrapFunctionBodyMicrogrammar.ts)
+  
   * my [TreeNodePrinter microlibrary](https://github.com/jessitron/microlib-TreeNodePrinter)
   * more about Atomist:
      * [our website](https://atomist.com)
