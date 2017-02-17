@@ -5,4 +5,4 @@ import Html exposing (Html, div, text)
 
 main : Html Never
 main =
-    div [] [ text "Hello World" ]
+    div [] [ text "sounds ecumenical" ]

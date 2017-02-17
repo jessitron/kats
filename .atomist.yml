@@ -39,3 +39,18 @@ generator:
   parameters:
     - "project_name": "Kats"
 
+---
+kind: "operation"
+client: "rug-cli 0.23.1-SNAPSHOT"
+editor:
+  name: "mygroup.elm-kats-rugs.ChangeMainToPrint"
+  group: "mygroup"
+  artifact: "elm-kats-rugs"
+  version: "0.1.0"
+  origin:
+    repo: "n/a"
+    branch: "n/a"
+    sha: "n/a"
+  parameters:
+    - "greeting": "sounds ecumenical"
+
