@@ -13,7 +13,7 @@ Links to stuff I used and talked about:
    * a [picture](see-the-elm-boilerplate.png) that outlines the boilerplate for a text input in pink
    * mt [talk from CodeMesh](https://youtu.be/yFN8Y0Aoflw) where I use editors to automate Elm boilerplate
    * a [Scala project generator](https://github.com/atomist-rugs/scala-project) used in the talk
-   * the parser-combinator Rug language extension we built (TODO: push it up after the talk)
+   * the parser-combinator [Rug language extension we built](https://github.com/jessitron/kats-parser)
    * open-source repos for [Rug](https://github.com/atomist/rug) and the [Rug CLI](https://github.com/atomist/rug-cli)
    * the [rug archive](https://github.com/jessitron/kats-rugs) containing 
       * the [change the greeting](https://github.com/jessitron/kats-rugs/blob/master/.atomist/editors/ChangeMainToPrint.rug) rug
